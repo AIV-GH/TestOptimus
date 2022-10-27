@@ -1,0 +1,1044 @@
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  left: 0;
+  width: 1531px;
+}
+
+.rectangleDiv {
+  top: 0;
+  background-color: rgba(160, 164, 171, 0.1);
+  height: 393.01px;
+}
+
+.footerDivs {
+  text-align: left;
+  font-size: 16px;
+  color: rgba(14, 14, 44, 0.8);
+  font-family: Poppins;
+  background-color: rgba(160, 164, 171, 0.1);
+}
+
+.footerDiv {
+  padding: 2rem;
+}
+
+.rectangleDiv1 {
+  top: 332.32px;
+  background-color: #ebbb3c;
+  border: 1px solid #ebbb3c;
+  box-sizing: border-box;
+  height: 62.68px;
+}
+
+.logoDiv {
+  font-size: 32px;
+  font-weight: 600;
+  color: #468cf6;
+  margin-bottom: 2rem;
+
+}
+
+.transformingLivesAcrossThe {
+  top: 113.54px;
+  left: 165px;
+  width: 255px;
+  height: 80.59px;
+}
+
+
+.companyDiv,
+.copyright2022Div {}
+
+.copyright2022Div {
+  font-weight: 600;
+  color: #fff;
+  background-color: #ebbb3c;
+  border: 1px solid #ebbb3c;
+  padding: p;
+  padding: 1rem;
+  text-align: center;
+  margin-top: 0.1rem;
+}
+
+.companyDiv, .productDiv, .competitorsDiv, .pricingDiv, .groupDiv {
+  margin-bottom: .5rem;
+}
+
+.competitorsDiv,
+.contactDiv {}
+
+.competitorsDiv,
+.contactDiv,
+.followUsDiv,
+.getInTouchWithUs,
+.linksDiv,
+.pricingDiv {}
+
+.pricingDiv {
+  height: 26.86px;
+}
+
+.productDiv {}
+
+.productDiv,
+.seniorsDiv {}
+
+.competitorsDiv {}
+
+.pricingDiv {}
+
+.contactDiv {}
+
+.seniorsDiv {
+  top: 294.51px;
+}
+
+.followUsDiv,
+.getInTouchWithUs,
+.linksDiv {
+
+  font-size: 18px;
+  font-weight: 600;
+  color: #0e0e2c;
+  margin-bottom: 1.6rem;
+}
+
+.linksDiv {
+  left: 454px;
+}
+
+.followUsDiv {}
+
+.getInTouchWithUs {}
+
+.groupDiv,
+.twitterDiv {}
+
+.twitterDiv {
+  top: 0;
+  left: 0;
+  line-height: 171.5%;
+  display: inline-block;
+}
+
+.groupDiv {}
+
+.footerDiv {
+  /* position: absolute; */
+  margin-top: 5rem;
+
+}
+
+.footerDiv a {
+  text-decoration: none;
+  color: rgba(14, 14, 44, 0.8);
+
+
+}
+
+.groupDiv1,
+.linkedInDiv {
+  position: absolute;
+  width: 175px;
+  height: 26.86px;
+}
+
+.linkedInDiv {
+  top: 0;
+  left: 0;
+  line-height: 171.5%;
+  display: inline-block;
+}
+
+.groupDiv1 {
+  top: 151.23px;
+  left: 734px;
+}
+
+.footerDiv {
+  font-size: 16px;
+  color: rgba(14, 14, 44, 0.8);
+  font-family: Poppins;
+}
+
+.rectangleDiv2 {
+  position: absolute;
+  top: -106.68px;
+  left: 332.86px;
+  background-color: #2e67bc;
+  width: 278.25px;
+  height: 495.26px;
+  display: none;
+}
+
+.ellipseIcon {
+  width: 4.75px;
+  height: 5.53px;
+}
+
+.groupIcon,
+.image48Div {
+  position: absolute;
+  top: 349.89px;
+  left: 520.42px;
+  width: 45.58px;
+  height: 22.11px;
+}
+
+.image48Div {
+  top: 53.7px;
+  left: -6px;
+  border-radius: 30px;
+  background-color: #fff;
+  border: 6px solid #0a014c;
+  box-sizing: border-box;
+  width: 154.45px;
+  height: 371.29px;
+}
+
+.groupIcon1,
+.iconlyLightNotification {
+  position: absolute;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.groupIcon1 {
+  height: 65.56%;
+  width: 77.33%;
+  top: 31.8%;
+  right: 11.33%;
+  bottom: 2.64%;
+  left: 11.33%;
+  opacity: 0.5;
+}
+
+.iconlyLightNotification {
+  height: 4.57%;
+  width: 7.81%;
+  top: 0;
+  right: 0;
+  bottom: 95.43%;
+  left: 92.19%;
+}
+
+.jumpStartDiv,
+.yourPortfolioLooksGreatTod {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+
+.jumpStartDiv {
+  top: 77.39px;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  width: 44.16px;
+  height: 24.32px;
+}
+
+.yourPortfolioLooksGreatTod {
+  top: 90.66px;
+  font-size: 10px;
+  color: #ababab;
+  width: 70.75px;
+  height: 13.27px;
+}
+
+.groupDiv3 {
+  position: absolute;
+  height: 24.8%;
+  width: 85.33%;
+  top: 0;
+  right: 7.33%;
+  bottom: 75.2%;
+  left: 7.33%;
+}
+
+.portfolioBalanceDiv {
+  top: 0;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 44.63px;
+  height: 16.58px;
+}
+
+.div {
+  left: 0;
+}
+
+.div,
+.div1 {
+  position: absolute;
+}
+
+.portfolioBalanceDiv,
+.vectorIcon {
+  position: absolute;
+  left: 0;
+}
+
+.div {
+  top: 11.06px;
+  font-size: 22px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  color: #373737;
+  display: inline-block;
+  width: 48.43px;
+  height: 29.85px;
+}
+
+.vectorIcon {
+  top: 2.76px;
+  width: 2.85px;
+  height: 1.66px;
+}
+
+.div1 {
+  top: 0;
+  left: 4.75px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 33.24px;
+  height: 13.27px;
+}
+
+.groupDiv6,
+.todayMay222021 {
+  position: absolute;
+  top: 28.19px;
+  left: 0.95px;
+  width: 37.99px;
+  height: 13.27px;
+  font-size: 10px;
+  color: #20cb5c;
+}
+
+.todayMay222021 {
+  top: 37.59px;
+  left: 0;
+  font-size: 9px;
+  letter-spacing: -0.01em;
+  color: #888da1;
+  display: inline-block;
+  width: 41.79px;
+  height: 12.16px;
+}
+
+.groupDiv5 {
+  position: absolute;
+  top: 21.16px;
+  left: 9.5px;
+  width: 48.43px;
+  height: 49.75px;
+  text-align: left;
+  font-size: 12px;
+  color: #353535;
+}
+
+.availableBalanceDiv,
+.div2 {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+}
+
+.availableBalanceDiv {
+  top: 0;
+  left: 0;
+  font-size: 12px;
+  width: 46.06px;
+  height: 16.58px;
+}
+
+.div2 {
+  top: 14.92px;
+  left: 15.19px;
+  font-weight: 500;
+  color: #35363d;
+  width: 18.99px;
+  height: 14.37px;
+}
+
+.moreDetailsDiv,
+.vectorIcon1 {
+  position: absolute;
+}
+
+.vectorIcon1 {
+  top: 2.21px;
+  left: 34.19px;
+  width: 3.32px;
+  height: 1.42px;
+}
+
+.moreDetailsDiv {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 29.91px;
+  height: 14.37px;
+}
+
+.groupDiv7,
+.groupDiv8 {
+  position: absolute;
+}
+
+.groupDiv8 {
+  top: 14.92px;
+  left: 74.07px;
+  width: 34.19px;
+  height: 14.37px;
+  color: #444;
+}
+
+.groupDiv7 {
+  top: 196.94px;
+  left: 9.5px;
+  width: 108.26px;
+  height: 29.3px;
+  text-align: left;
+  font-size: 11px;
+  color: #373737;
+}
+
+.rectangleDiv3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #5643eb;
+  width: 15.19px;
+  height: 11.05px;
+}
+
+.hDiv {
+  position: absolute;
+  top: 1.11px;
+  left: 4.27px;
+  font-weight: 500;
+  display: inline-block;
+  width: 6.17px;
+  height: 16.58px;
+}
+
+.groupDiv9,
+.rectangleDiv4 {
+  position: absolute;
+  width: 15.19px;
+}
+
+.groupDiv9 {
+  top: 169.3px;
+  left: 8.07px;
+  height: 17.69px;
+  font-size: 12px;
+  color: #fefefe;
+}
+
+.rectangleDiv4 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 1px solid #5643eb;
+  box-sizing: border-box;
+  height: 11.05px;
+}
+
+.hDiv1 {
+  position: absolute;
+  top: 2.21px;
+  left: 3.09px;
+  display: inline-block;
+  width: 9.02px;
+  height: 6.63px;
+}
+
+.groupDiv10,
+.wDiv {
+  position: absolute;
+  top: 169.3px;
+  left: 27.07px;
+  width: 15.19px;
+  height: 11.05px;
+}
+
+.wDiv {
+  top: 2.21px;
+  left: 4.51px;
+  display: inline-block;
+  width: 6.17px;
+  height: 13.27px;
+}
+
+.groupDiv11 {
+  position: absolute;
+  top: 168.75px;
+  left: 46.06px;
+}
+
+.groupDiv11,
+.groupDiv12 {
+  width: 15.19px;
+  height: 15.48px;
+}
+
+.groupDiv12,
+.yDiv {
+  position: absolute;
+}
+
+.groupDiv12 {
+  top: 169.3px;
+  left: 65.05px;
+}
+
+.yDiv {
+  top: 2.21px;
+  left: 4.99px;
+  display: inline-block;
+  width: 5.22px;
+  height: 6.63px;
+}
+
+.allDiv,
+.groupDiv13 {
+  position: absolute;
+}
+
+.groupDiv13 {
+  top: 169.3px;
+  left: 84.05px;
+  width: 15.19px;
+  height: 11.05px;
+}
+
+.allDiv {
+  top: 2.21px;
+  left: 4.51px;
+  display: inline-block;
+  width: 5.7px;
+  height: 6.63px;
+}
+
+.groupDiv14,
+.rectangleDiv9 {
+  position: absolute;
+  top: 168.75px;
+  left: 103.04px;
+  width: 15.19px;
+  height: 11.05px;
+}
+
+.rectangleDiv9 {
+  top: 188.09px;
+  left: 9.5px;
+  background: linear-gradient(-90deg,
+      rgba(87, 68, 235, 0) 15.6%,
+      #5643eb 54.51%,
+      rgba(86, 67, 235, 0) 87.52%);
+  width: 109.21px;
+  height: 0.55px;
+  opacity: 0.5;
+}
+
+.groupIcon2,
+.rectangleDiv10 {
+  position: absolute;
+  top: 0;
+  left: 9.5px;
+  width: 10.45px;
+  height: 221.81px;
+}
+
+.rectangleDiv10 {
+  left: 0;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #4832f2, #5b46f4);
+  width: 52.23px;
+  height: 15.48px;
+}
+
+.sendDiv {
+  position: absolute;
+  top: 4.42px;
+  left: 20.42px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 11.4px;
+  height: 13.27px;
+}
+
+.groupDiv15,
+.rectangleDiv11 {
+  position: absolute;
+  width: 52.23px;
+}
+
+.groupDiv15 {
+  top: 230.1px;
+  left: 9.5px;
+  height: 17.69px;
+  color: #fff;
+}
+
+.rectangleDiv11 {
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #468cf6, #5797f9);
+  height: 15.48px;
+}
+
+.withdrawDiv {
+  position: absolute;
+  top: 4.42px;
+  left: 15.67px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 21.37px;
+  height: 13.27px;
+}
+
+.groupDiv16 {
+  position: absolute;
+  top: 230.1px;
+  left: 66.48px;
+  width: 52.23px;
+  height: 17.69px;
+  color: #fff;
+}
+
+.groupIcon3 {
+  position: absolute;
+  top: 254.98px;
+  left: 59.35px;
+  width: 9.5px;
+  height: 11.05px;
+}
+
+.groupDiv4,
+.groupIcon4 {
+  position: absolute;
+  width: 119.18px;
+}
+
+.groupIcon4 {
+  top: 53.59px;
+  left: 0;
+  height: 118.75px;
+}
+
+.groupDiv4 {
+  top: 97.13px;
+  left: 7.12px;
+  height: 266.03px;
+  text-align: center;
+  font-size: 10px;
+  color: #5643eb;
+}
+
+.groupDiv2 {
+  /* display: none; */
+}
+
+.aICaregiverForElders {
+
+  font-size: 42px;
+  line-height: 50px;
+  display: inline-block;
+  color: #1d2d3f;
+  margin-bottom: 2rem;
+
+}
+
+.usingOptimusToAvoidInciden {
+  font-size: 20px;
+  line-height: 30px;
+  color: #787878;
+
+}
+
+.bluee011Icon {
+  position: absolute;
+  top: 223.17px;
+  left: 460.69px;
+  width: 305.32px;
+  height: 355.42px;
+  object-fit: cover;
+  display: none;
+}
+
+.homeBannerDiv {
+  position: absolute;
+  top: 300px;
+  left: 153px;
+  width: 566px;
+  height: 372px;
+  font-size: 18px;
+  color: #353535;
+}
+
+.cONTACTDiv {
+  position: absolute;
+  top: 0;
+  left: 830.04px;
+  line-height: 30px;
+  display: inline-block;
+  width: 85.14px;
+}
+
+.pRICINGDiv {
+  width: 71.87px;
+}
+
+.listDiv {
+  padding-right: 1.5rem;
+  font-size: 16px;
+}
+
+.listDiv a {
+  text-decoration: none;
+  color: #787878;
+
+}
+
+.cOMPANYDiv,
+.cOMPETITORSDiv,
+.pRICINGDiv,
+.pRODUCTDiv,
+.sENIORSDiv,
+.tESTIMONIALSDiv {}
+
+.tESTIMONIALSDiv {
+  left: 548.36px;
+  width: 130.48px;
+}
+
+.cOMPETITORSDiv {}
+
+.pRODUCTDiv,
+.sENIORSDiv {
+  width: 86.25px;
+}
+
+.sENIORSDiv {
+  left: 548.36px;
+}
+
+.cOMPANYDiv {
+  left: 0;
+  width: 89.56px;
+}
+
+.navBarDiv {
+  position: absolute;
+  top: 36px;
+  left: 331.82px;
+  width: 915.18px;
+  height: 30px;
+  font-size: 16px;
+  color: #353535;
+}
+
+.fallDetectionB,
+.fallsAreTheLeadingCauseOf {}
+
+.fallsAreTheLeadingCauseOf {
+
+  line-height: 30px;
+  margin-top: 1.5rem;
+  width: 466px;
+  word-break: break-word;
+}
+
+.fallDetectionB {
+
+  font-size: 25px;
+  line-height: 20px;
+  color: #1d2d3f;
+  width: 446.9px;
+}
+
+.groupDiv17 {}
+
+.optimusIsACuttingEdgeVirt,
+.sleepBehaviour {
+  line-height: 30px;
+  width: 400px;
+  word-break: break-all;
+  margin-top: 1.5rem;
+}
+
+.sleepBehaviour {
+  font-size: 25px;
+  line-height: 20px;
+  color: #1d2d3f;
+}
+
+.topSpace {
+  margin-top: 12rem;
+}
+
+.groupDiv20 {
+  top: 2985px;
+  left: calc(50% - 530px);
+}
+
+
+
+.ezgif6Icon,
+.groupDiv24 {
+  position: absolute;
+  top: 3520px;
+  left: 265px;
+}
+
+.ezgif6Icon {
+  width: 333px;
+  height: 333px;
+  object-fit: cover;
+  display: none;
+}
+
+.groupDiv24 {
+  width: 0;
+  height: 0;
+}
+
+.rectangleDiv12 {
+  position: absolute;
+  top: 650px;
+  background-color: #d9d9d9;
+}
+
+.rectangleDiv12,
+.rectangleDiv13,
+.rectangleDiv14 {
+  left: 0;
+  width: 1496px;
+  height: 136px;
+}
+
+.rectangleDiv13,
+.rectangleDiv14,
+.rectangleDiv15,
+.rectangleDiv16 {
+  position: absolute;
+  background-color: #d9d9d9;
+}
+
+.rectangleDiv13 {
+  top: 1352px;
+}
+
+.rectangleDiv14 {
+  top: 2048px;
+}
+
+.rectangleDiv15,
+.rectangleDiv16 {
+  top: 7px;
+  left: 1277px;
+  width: 196px;
+  height: 370px;
+}
+
+.rectangleDiv16 {
+  top: 0;
+  left: 28px;
+}
+
+.groupDiv25 {
+  position: absolute;
+  top: 1866px;
+  left: -28px;
+  width: 1496px;
+  height: 2184px;
+  display: none;
+}
+
+.rectangleDiv17,
+.rectangleDiv18,
+.rectangleDiv19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 444px;
+  height: 348px;
+}
+
+.rectangleDiv18,
+.rectangleDiv19 {
+  top: 702px;
+}
+
+.rectangleDiv19 {
+  top: 1398px;
+}
+
+.rectangleDiv20 {
+  left: 0;
+}
+
+.rectangleDiv20,
+.rectangleDiv21,
+.rectangleDiv22,
+.rectangleDiv23 {
+  position: absolute;
+  background-color: #d9d9d9;
+  width: 444px;
+  height: 348px;
+}
+
+.rectangleDiv20 {
+  top: 2093px;
+}
+
+.rectangleDiv21 {
+  top: 0;
+  left: 658px;
+}
+
+.rectangleDiv22,
+.rectangleDiv23 {
+  left: 658px;
+}
+
+.rectangleDiv22 {
+  top: 702px;
+}
+
+.rectangleDiv23 {
+  top: 1398px;
+}
+
+.groupDiv26 {
+  position: absolute;
+  top: 2160px;
+  left: 154px;
+  width: 1102px;
+  height: 2441px;
+  display: none;
+}
+
+.analysisOfDataBlockchain1Icon,
+.w023N0032929bP12929ConveIcon {}
+
+.w023N0032929bP12929ConveIcon {
+  width: 391px;
+  height: 406px;
+}
+
+.analysisOfDataBlockchain1Icon {
+  width: 40%;
+  width: 28%;
+  position: absolute;
+  left: 17%;
+}
+
+.rectangleDiv24 {
+  position: absolute;
+  top: 106px;
+  left: 742px;
+  width: 547px;
+  height: 566px;
+}
+
+.vectorIcon2 {
+  position: absolute;
+  height: 0.37%;
+  width: 0.05%;
+  top: 28.89%;
+  right: 17.52%;
+  bottom: 70.74%;
+  left: 82.43%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.oldWomanSufferingFromHeadaIcon,
+.retiredWomenFellDownByHeaIcon {
+
+  width: 538px;
+  height: 598px;
+}
+
+
+
+.retiredWomenFellDownByHeaIcon {
+
+  width: 493px;
+  height: 329px;
+}
+
+.icon,
+.oldPersonSmoking11 {}
+
+.oldPersonSmoking11 {
+
+  width: 455px;
+  height: 455px;
+}
+
+.icon {
+  width: 575px;
+  height: 368px;
+  margin-bottom: 4rem;
+}
+
+.icon1 {
+
+  width: 330px;
+  height: 383px;
+}
+
+.untitled11Icon {
+
+  width: 511px;
+  height: 469px;
+}
+
+.calender1Icon,
+.oldWomanWithMigraineTakingIcon,
+.untitled11Icon {}
+
+.oldWomanWithMigraineTakingIcon {
+
+  width: 540px;
+  height: 386px;
+}
+
+.calender1Icon {
+  height: 2.64%;
+  width: 7.71%;
+  top: 23.6%;
+  right: 34.31%;
+  bottom: 72.76%;
+  left: 75.99%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.rectangleIcon {
+  position: absolute;
+  top: 27px;
+  left: 167px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.forSeniorsDiv {
+  position: relative;
+  width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #787878;
+  font-family: Inter;
+}
