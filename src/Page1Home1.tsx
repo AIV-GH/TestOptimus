@@ -323,7 +323,14 @@ export const Page1Home: FunctionComponent = () => {
               </div>
             </div>
             <div className="col-md-6 col-sm-12 col-xs-12">
-              <Carousel className={styles.blueMainBannerr2}>
+              <Carousel className={styles.blueMainBannerr2}
+                infiniteLoop 
+                autoPlay 
+                interval={5000}
+                showArrows={false}
+                showStatus={false}
+                showThumbs={false}
+                showIndicators={true}>
                 <div>
                   <img src="bluee01-1@2x.png" />
                 </div>
